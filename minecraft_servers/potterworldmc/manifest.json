@@ -7,9 +7,14 @@
   ],
   "social": {
     "web": "https://potterworldmc.com/",
+    "web_shop": "https://store.potterworldmc.com/",
+    "web_support": "https://potterworldmc.com/support/",
     "twitter": "potterworldmc",
     "youtube": "https://www.youtube.com/potterworldmc",
     "instagram": "potterworldmc",
-    "discord": "https://discord.gg/sUy6cBT"
-  }
+    "discord": "https://discord.gg/sUy6cBT",
+    "tiktok": "potterworldmc"
+  },
+  "yt_trailer": "_YxMw0XugJc",
+  "user_stats": "https://potterworldmc.com/player/{userName}"
 }
